@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+DisProt_2022_06.fasta.fai
+DisProt_2022_06.fasta
+WALTZ_DB_amiloid_seq
+waltz
+Amiloid+Disprot_full_corr
+pupa.py
+UniProt+DisProt_amiloids.ods
+UniProt+DisProt_amiloids.tsv
+.~lock.UniProt+DisProt_amiloids.ods#
+.idea/workspace.xml
+.~lock.table_amiloids.tsv#
